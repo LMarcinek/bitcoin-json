@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color: teal;
+    color: white;
+    font-family: 'PT Sans', sans-serif;
+    
+}
+.cours{
+    background-color: rgba(102, 51, 153, 0.63);
+        width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+button {
+    margin-bottom: 5%;
+     background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+p{
+    display: inline;
+    margin-right: 10px;
+}
+button:active
+{
+    background-color: black;
+}
+button:focus{
+        background-color: black;
+}
+i{
+    color: white;
+}
